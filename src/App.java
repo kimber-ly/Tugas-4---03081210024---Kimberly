@@ -145,7 +145,7 @@ public class App {
         Nasabah nsb2 = new Nasabah("0214571", "Gilbert", 500000);
         nasabah.add(nsb2);
 
-        Nasabah nsb3 = new Nasabah("0214572", "Kimberlly", 500000);
+        Nasabah nsb3 = new Nasabah("0214572", "Kimberly", 500000);
         nasabah.add(nsb3);
         nasabah.add(new Nasabah("0214573", "Wilbert", 500000));
         return nasabah;
